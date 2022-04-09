@@ -6,7 +6,7 @@ import sys
 import time
 import pytz
 
-token = '1253021225:AAEwW5Ajq8qvqc74CRZ7jFeLmQPgHmek-qw'
+token = 'INSERT TOKEN'
 CHAT_ID = 330551667
 TELEGRAM_API_SEND_MSG = 'https://api.telegram.org/bot1253021225:AAEwW5Ajq8qvqc74CRZ7jFeLmQPgHmek-qw/sendMessage'
 
